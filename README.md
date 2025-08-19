@@ -55,7 +55,6 @@ All trademarks belong to their respective owners.
   [Website](https://www.apertium.org) | [GitHub](https://github.com/apertium)  
 
 - **Android Open Source Project (AOSP)**  
-  [Website](https://source.android.com)  
 
 - **Contributors & Community**  
   [Contributors Graph](https://github.com/zxchmod/Inkgram/graphs/contributors)  
