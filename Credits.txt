@@ -20,5 +20,8 @@ Special thanks to:
   Everyone who contributes code, ideas, bug reports, or feedback.  
   https://github.com/zxchmod/Inkgram/graphs/contributors
 
-=====================================
+Design & Themes:
+----------------
+- Custom themes **Light Ink** and **Dark Ink** created by *NameSugar*.  
+
 
