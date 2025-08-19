@@ -20,7 +20,7 @@ It delivers the full Telegram experience with extra features that enhance usabil
 ### Android
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Inkgram.git
+   git clone https://github.com/zxchmod/Inkgram.git
    ```
 2. Open the project in **Android Studio**.  
 3. Build and run on a device or emulator.  
