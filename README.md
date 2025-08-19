@@ -3,6 +3,8 @@
 **Inkgram** is a third-party messaging app powered by the **Telegram API**.  
 It delivers the full Telegram experience with extra features that enhance usability, style, and convenience.
 
+**Status:** In the development 🚧
+
 ---
 
 ## ✨ Features
