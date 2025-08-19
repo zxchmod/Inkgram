@@ -1,9 +1,24 @@
-Inkgram Credits
-===============
+Inkgram - Credits & Acknowledgements
+=====================================
 
-Inkgram is a free and open-source modification of Telegram (GPLv3 licensed).
+Inkgram is a free and open-source project based on the Telegram API.
 
-This project includes contributions and integrations from the following:
+Special thanks to:
 
-- Telegram (https://github.com/DrKLO/Telegram) – the original open-source Telegram client for Android.
-- Apertium (https://www.apertium.org/) – free and open-source machine translation platform used for message translation.
+- Telegram Open Source Project  
+  For providing the official Telegram client codebase and API.  
+  https://github.com/DrKLO/Telegram
+
+- Apertium Project  
+  For their open-source machine translation platform used in Inkgram.  
+  https://github.com/apertium
+
+- Android Open Source Project (AOSP)  
+  For the Android development tools, libraries, and platform.  
+
+- Contributors & Community  
+  Everyone who contributes code, ideas, bug reports, or feedback.  
+  https://github.com/zxchmod/Inkgram/graphs/contributors
+
+=====================================
+
