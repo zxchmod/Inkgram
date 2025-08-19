@@ -47,6 +47,24 @@ All trademarks belong to their respective owners.
 
 ---
 
+## Credits
+- **Telegram Open Source Project**  
+  [GitHub](https://github.com/DrKLO/Telegram)  
+
+- **Apertium Project** (open-source machine translation)  
+  [Website](https://www.apertium.org) | [GitHub](https://github.com/apertium)  
+
+- **Android Open Source Project (AOSP)**  
+  [Website](https://source.android.com)  
+
+- **Contributors & Community**  
+  [Contributors Graph](https://github.com/zxchmod/Inkgram/graphs/contributors)  
+
+- **Design & Themes**  
+  Custom themes **Light Ink** and **Dark Ink** created by *NameSugar*  
+
+---
+
 ## 🤝 Contributing
 
 Contributions, pull requests, and feature ideas are welcome!  
